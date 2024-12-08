@@ -1,0 +1,26 @@
+
+**Electoral Wards (2014-2018)
+https://data.winnipeg.ca/Council-Services/Electoral-Wards-2014-2018-/mp2r-jeav/data_preview
+
+(NOT INCLUDED)Addresses
+https://data.winnipeg.ca/City-Planning/Addresses/cam2-ii3u/data_preview
+
+**Detailed Building Permit Data (Status Closed only and issue date 2014 to 2018)
+https://data.winnipeg.ca/Development-Approvals-Building-Permits-Inspections/Detailed-Building-Permit-Data/it4w-cpf4/data_preview
+
+**Public Notices (In date from 2014 to 2018) 
+https://data.winnipeg.ca/Development-Approvals-Building-Permits-Inspections/Public-Notices/gnxp-9hpt/data_preview
+
+**Winnipeg Election Results (For Councilors Only)
+https://data.winnipeg.ca/Council-Services/Winnipeg-Election-Results/7753-3fjc/data_preview
+
+**WFPS Call Logs (Call Time from 2014 to 2018) 
+https://data.winnipeg.ca/Fire-and-Rescue-Response/WFPS-Call-Logs/yg42-q284/data_preview
+
+**Gift Registry (Gift Dated from 2014 to 2018)
+https://data.winnipeg.ca/Council-Services/Gift-Registry/w7gt-g9ta/data_preview
+
+**By-Law Investigations
+https://data.winnipeg.ca/Neighbourhood-Liveability-Property-Standards-Licen/By-Law-Investigations/eye3-guud/data_preview
+
+** Data is only from 2014 to 2018

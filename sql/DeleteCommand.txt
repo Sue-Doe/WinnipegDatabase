@@ -1,0 +1,13 @@
+DELETE FROM Provides;
+DELETE FROM Becomes;
+DELETE FROM NominatedFor;
+DELETE FROM Investigate;
+DELETE FROM Permits;
+DELETE FROM PublicNotices;
+DELETE FROM Gift;
+DELETE FROM Councilor;
+DELETE FROM Candidate;
+DELETE FROM GeneralElection;
+DELETE FROM ByLaw;
+DELETE FROM WFPSCALLS;
+DELETE FROM Ward;

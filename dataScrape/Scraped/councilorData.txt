@@ -1,0 +1,16 @@
+INSERT INTO councilor(Councillor, Number, Name) VALUES 
+( 'Jason Schreyer' ,14,'Elmwood - East Kildonan'),
+( 'Russ Wyatt' ,13,'Transcona'),
+( 'Vivian Santos' ,3,'Point Douglas'),
+( 'Sherri Rollins' ,9,'Fort Rouge - East Fort Garry'),
+( 'John Orlikow' ,8,'River Heights - Fort Garry'),
+( 'Jeff Browaty' ,15,'North Kildonan'),
+( 'Evan Duncan' ,7,'Charleswood - Tuxedo - Westwood'),
+( 'Markus Chambers' ,10,'St. Norbert - Seine River'),
+( 'Ross Eadie' ,2,'Mynarski'),
+( 'Shawn Dobson' ,5,'St. James'),
+( 'Brian Mayes' ,11,'St. Vital'),
+( 'Matt Allard' ,12,'St. Boniface'),
+( 'Devi Sharma' ,1,'Old Kildonan'),
+( 'Cindy Gilroy' ,4,'Daniel McIntyre'),
+( 'Janice Lukes' ,6,'Waverley West');
